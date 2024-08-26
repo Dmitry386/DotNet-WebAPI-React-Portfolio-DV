@@ -1,0 +1,45 @@
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.deps.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.csproj.AssemblyReference.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.AssemblyInfoInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.AssemblyInfo.cs
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.csproj.CoreCompileInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfoli.B086831A.Up2Date
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\refint\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\ref\Portfolio.Application.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.deps.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.csproj.AssemblyReference.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.AssemblyInfoInputs.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.AssemblyInfo.cs
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.csproj.CoreCompileInputs.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfoli.B086831A.Up2Date
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\refint\Portfolio.Application.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\ref\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.deps.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.csproj.AssemblyReference.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.AssemblyInfoInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.AssemblyInfo.cs
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.csproj.CoreCompileInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfoli.B086831A.Up2Date
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\refint\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.Application\obj\Debug\net8.0\ref\Portfolio.Application.dll

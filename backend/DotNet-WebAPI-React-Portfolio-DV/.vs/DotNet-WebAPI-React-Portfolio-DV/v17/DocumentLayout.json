@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\controllers\\portfolioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\controllers\\portfolioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\contracts\\portfoliosrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\contracts\\portfoliosrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7AFCEB-E259-44D1-8D0E-A2868BD71EA3}|Portfolio.Core\\Portfolio.Core.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.core\\models\\portfoliomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7AFCEB-E259-44D1-8D0E-A2868BD71EA3}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\models\\portfoliomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\contracts\\portfoliosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\contracts\\portfoliosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5425B124-72A8-44A8-BE6A-8BB9D5DE0A0B}|Portfolio.DataAccess\\Portfolio.DataAccess.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.dataaccess\\portfoliodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5425B124-72A8-44A8-BE6A-8BB9D5DE0A0B}|Portfolio.DataAccess\\Portfolio.DataAccess.csproj|solutionrelative:portfolio.dataaccess\\portfoliodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7AFCEB-E259-44D1-8D0E-A2868BD71EA3}|Portfolio.Core\\Portfolio.Core.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.core\\abstractions\\iportfoliosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7AFCEB-E259-44D1-8D0E-A2868BD71EA3}|Portfolio.Core\\Portfolio.Core.csproj|solutionrelative:portfolio.core\\abstractions\\iportfoliosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5425B124-72A8-44A8-BE6A-8BB9D5DE0A0B}|Portfolio.DataAccess\\Portfolio.DataAccess.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.dataaccess\\entities\\portfolioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5425B124-72A8-44A8-BE6A-8BB9D5DE0A0B}|Portfolio.DataAccess\\Portfolio.DataAccess.csproj|solutionrelative:portfolio.dataaccess\\entities\\portfolioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Portfolio.API\\appsettings.Development.json",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\appsettings.Development.json",
+              "RelativeToolTip": "Portfolio.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T20:31:33.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfoliosController.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Controllers\\PortfoliosController.cs",
+              "RelativeDocumentMoniker": "Portfolio.API\\Controllers\\PortfoliosController.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Controllers\\PortfoliosController.cs",
+              "RelativeToolTip": "Portfolio.API\\Controllers\\PortfoliosController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:09:32.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PortfolioModel.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.Core\\Models\\PortfolioModel.cs",
+              "RelativeDocumentMoniker": "Portfolio.Core\\Models\\PortfolioModel.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.Core\\Models\\PortfolioModel.cs",
+              "RelativeToolTip": "Portfolio.Core\\Models\\PortfolioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:56:25.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfoliosRequest.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Contracts\\PortfoliosRequest.cs",
+              "RelativeDocumentMoniker": "Portfolio.API\\Contracts\\PortfoliosRequest.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Contracts\\PortfoliosRequest.cs",
+              "RelativeToolTip": "Portfolio.API\\Contracts\\PortfoliosRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:46:12.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio.API\\Program.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Program.cs",
+              "RelativeToolTip": "Portfolio.API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:15:27.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfoliosResponse.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Contracts\\PortfoliosResponse.cs",
+              "RelativeDocumentMoniker": "Portfolio.API\\Contracts\\PortfoliosResponse.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Contracts\\PortfoliosResponse.cs",
+              "RelativeToolTip": "Portfolio.API\\Contracts\\PortfoliosResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:59:50.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PortfolioDbContext.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.DataAccess\\PortfolioDbContext.cs",
+              "RelativeDocumentMoniker": "Portfolio.DataAccess\\PortfolioDbContext.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.DataAccess\\PortfolioDbContext.cs",
+              "RelativeToolTip": "Portfolio.DataAccess\\PortfolioDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:55:04.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Portfolio.API\\docker-compose.yml",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\docker-compose.yml",
+              "RelativeToolTip": "Portfolio.API\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-25T07:07:31.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Portfolio.API\\appsettings.json",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\appsettings.json",
+              "RelativeToolTip": "Portfolio.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T07:12:36.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPortfoliosRepository.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.Core\\Abstractions\\IPortfoliosRepository.cs",
+              "RelativeDocumentMoniker": "Portfolio.Core\\Abstractions\\IPortfoliosRepository.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.Core\\Abstractions\\IPortfoliosRepository.cs",
+              "RelativeToolTip": "Portfolio.Core\\Abstractions\\IPortfoliosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:26:36.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PortfolioEntity.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.DataAccess\\Entities\\PortfolioEntity.cs",
+              "RelativeDocumentMoniker": "Portfolio.DataAccess\\Entities\\PortfolioEntity.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.DataAccess\\Entities\\PortfolioEntity.cs",
+              "RelativeToolTip": "Portfolio.DataAccess\\Entities\\PortfolioEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:59:52.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Portfolio.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Portfolio.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:49:13.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

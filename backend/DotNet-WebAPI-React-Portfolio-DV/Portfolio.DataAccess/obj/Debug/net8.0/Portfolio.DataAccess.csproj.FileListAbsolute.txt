@@ -1,0 +1,51 @@
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.deps.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.runtimeconfig.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.csproj.AssemblyReference.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.AssemblyInfoInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.AssemblyInfo.cs
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.csproj.CoreCompileInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfoli.0753EEA6.Up2Date
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\refint\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.genruntimeconfig.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\ref\Portfolio.DataAccess.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.deps.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.runtimeconfig.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.csproj.AssemblyReference.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.AssemblyInfoInputs.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.AssemblyInfo.cs
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.csproj.CoreCompileInputs.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfoli.0753EEA6.Up2Date
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\refint\Portfolio.DataAccess.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.genruntimeconfig.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\ref\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.deps.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.runtimeconfig.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.csproj.AssemblyReference.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.AssemblyInfoInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.AssemblyInfo.cs
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.csproj.CoreCompileInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfoli.0753EEA6.Up2Date
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\refint\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\Portfolio.DataAccess.genruntimeconfig.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.DataAccess\obj\Debug\net8.0\ref\Portfolio.DataAccess.dll

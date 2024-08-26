@@ -1,0 +1,330 @@
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.csproj.AssemblyReference.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.AssemblyInfoInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.AssemblyInfo.cs
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.csproj.CoreCompileInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.MvcApplicationPartsAssemblyInfo.cs
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.MvcApplicationPartsAssemblyInfo.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\appsettings.Development.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\appsettings.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.exe
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.deps.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.runtimeconfig.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Humanizer.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Npgsql.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.Portfolio.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Portfolio.API.props
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio.API.props
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Portfolio.API.props
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\scopedcss\bundle\Portfolio.API.styles.css
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfoli.DE2C3361.Up2Date
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\refint\Portfolio.API.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.genruntimeconfig.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\ref\Portfolio.API.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\appsettings.Development.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\appsettings.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.exe
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.deps.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.runtimeconfig.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Humanizer.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Npgsql.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.csproj.AssemblyReference.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.AssemblyInfoInputs.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.AssemblyInfo.cs
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.csproj.CoreCompileInputs.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.MvcApplicationPartsAssemblyInfo.cs
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.MvcApplicationPartsAssemblyInfo.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.Portfolio.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Portfolio.API.props
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio.API.props
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Portfolio.API.props
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\scopedcss\bundle\Portfolio.API.styles.css
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfoli.DE2C3361.Up2Date
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\refint\Portfolio.API.dll
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.pdb
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.genruntimeconfig.cache
+C:\UProjects\Новая папка\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\ref\Portfolio.API.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\appsettings.Development.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\appsettings.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.exe
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.deps.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.runtimeconfig.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.API.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Humanizer.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Npgsql.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Application.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Core.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.DataAccess.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Application.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.DataAccess.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\bin\Debug\net8.0\Portfolio.Core.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.csproj.AssemblyReference.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.AssemblyInfoInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.AssemblyInfo.cs
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.csproj.CoreCompileInputs.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.MvcApplicationPartsAssemblyInfo.cs
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.MvcApplicationPartsAssemblyInfo.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.Portfolio.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Portfolio.API.props
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio.API.props
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Portfolio.API.props
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\scopedcss\bundle\Portfolio.API.styles.css
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfoli.DE2C3361.Up2Date
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\refint\Portfolio.API.dll
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.pdb
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\Portfolio.API.genruntimeconfig.cache
+C:\UProjects\DotNet-WebAPI-React-Portfolio-DV\backend\DotNet-WebAPI-React-Portfolio-DV\Portfolio.API\obj\Debug\net8.0\ref\Portfolio.API.dll
