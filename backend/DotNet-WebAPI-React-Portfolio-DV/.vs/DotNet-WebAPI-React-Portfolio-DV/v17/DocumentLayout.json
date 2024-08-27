@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D272E1FB-03E5-403F-AE62-DBFE6B98943F}|Portfolio.Tests\\Portfolio.Tests.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D272E1FB-03E5-403F-AE62-DBFE6B98943F}|Portfolio.Tests\\Portfolio.Tests.csproj|solutionrelative:portfolio.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|c:\\uprojects\\dotnet-webapi-react-portfolio-dv\\backend\\dotnet-webapi-react-portfolio-dv\\portfolio.api\\controllers\\portfolioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA35BBCB-E169-4183-8978-A0E70909D5E8}|Portfolio.API\\Portfolio.API.csproj|solutionrelative:portfolio.api\\controllers\\portfolioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,7 +66,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Portfolio.API\\appsettings.Development.json",
@@ -76,6 +80,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Portfolio.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Portfolio.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:05:34.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PortfoliosController.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Controllers\\PortfoliosController.cs",
               "RelativeDocumentMoniker": "Portfolio.API\\Controllers\\PortfoliosController.cs",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PortfolioModel.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.Core\\Models\\PortfolioModel.cs",
               "RelativeDocumentMoniker": "Portfolio.Core\\Models\\PortfolioModel.cs",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PortfoliosRequest.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Contracts\\PortfoliosRequest.cs",
               "RelativeDocumentMoniker": "Portfolio.API\\Contracts\\PortfoliosRequest.cs",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Program.cs",
               "RelativeDocumentMoniker": "Portfolio.API\\Program.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PortfoliosResponse.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\Contracts\\PortfoliosResponse.cs",
               "RelativeDocumentMoniker": "Portfolio.API\\Contracts\\PortfoliosResponse.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PortfolioDbContext.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.DataAccess\\PortfolioDbContext.cs",
               "RelativeDocumentMoniker": "Portfolio.DataAccess\\PortfolioDbContext.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\docker-compose.yml",
               "RelativeDocumentMoniker": "Portfolio.API\\docker-compose.yml",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\appsettings.json",
               "RelativeDocumentMoniker": "Portfolio.API\\appsettings.json",
@@ -172,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IPortfoliosRepository.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.Core\\Abstractions\\IPortfoliosRepository.cs",
               "RelativeDocumentMoniker": "Portfolio.Core\\Abstractions\\IPortfoliosRepository.cs",
@@ -184,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PortfolioEntity.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.DataAccess\\Entities\\PortfolioEntity.cs",
               "RelativeDocumentMoniker": "Portfolio.DataAccess\\Entities\\PortfolioEntity.cs",
@@ -196,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\UProjects\\DotNet-WebAPI-React-Portfolio-DV\\backend\\DotNet-WebAPI-React-Portfolio-DV\\Portfolio.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Portfolio.API\\WeatherForecast.cs",

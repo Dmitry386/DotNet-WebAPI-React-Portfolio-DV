@@ -1,0 +1,1 @@
+Технологический стек: ASP.NET, Entity Framework, React, Next.js, HTML, CSS, TypeScript
